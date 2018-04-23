@@ -30,4 +30,4 @@ echo "<!DOCTYPE html>
     </table>
 </body>
 
-</html>";
+</html>"; // ETA VETKA HUYASTER
